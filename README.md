@@ -10,7 +10,7 @@ Viết báo cáo ngắn mô tả cách cài đặt và thời gian chạy.
 
 Co may file cuoi luoi k lam not =))
 
-Chay file .py de sinh khoa, xong moi chay encrypt(doi ten file muon ma hoa trong code)
+Chay file .py de sinh khoa, xong moi chay encrypt(doi ten file muon ma hoa trong code o dong 113, f la ten file plaintext, f2 la ten file dich)
 Ham decrypt giong ham encrypt.
 
 Co 1 so file sau khi ma hoa qua qua dai nen win11 chuyen sang tieng trung hoac khong mo duoc.
